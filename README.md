@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Greetings! I'm a dedicated coder deeply passionate about Linux, C, and JavaScript. With a knack for crafting efficient solutions in C, I love exploring the intricacies of the Linux environment. On the flip side, I'm a JavaScript magician, conjuring interactive experiences. My journey is paved with impactful open-source contributions. Let's connect on LinkedIn or Twitter and embark on exciting coding adventures together! 🚀
+👋 Greetings! I'm a dedicated coder deeply passionate about Linux, C, Shell(.sh), and JavaScript. With a knack for crafting efficient solutions in C, I love exploring the intricacies of the Linux environment. On the flip side, I'm a JavaScript magician, conjuring interactive experiences. My journey is paved with impactful open-source contributions. Let's connect on LinkedIn or Twitter and embark on exciting coding adventures together! 🚀
 
 
 ## 🌐 Socials:
